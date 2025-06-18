@@ -1,2 +1,2 @@
 # CPP07
-Exercice for the CCP07 project
+Exercice for the CPP07 project
